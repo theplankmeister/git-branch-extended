@@ -27,3 +27,4 @@ Issuing the `git branch` command will subsequently produce output similar to the
   master                                      | 2015-03-12 13:03  | Only 100% bug-free goodness
 ```
 
+This project is based on/inspired by [this GitHub project](https://github.com/bahmutov/git-branches) which I found through [this post](http://bahmutov.calepin.co/git-branches-with-descriptions-really.html).
